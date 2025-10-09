@@ -5,7 +5,7 @@
 # Purpose:     Monitors domain user accounts for locked and disabled status
 #              and reports them to CheckMK as individual services or summary check
 #
-# Author:      FELLNER Mario (BMI-IV-DDS-10-a)
+# Author:      FELLNER Mario (mario.fellner@outlook.at)
 # Created:     2025-09-17
 # Version:     3.2
 # Last Modified: 2025-10-09
