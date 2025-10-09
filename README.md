@@ -106,11 +106,11 @@ $individualChecks = $true        # true = per-account checks, false = summary
 ### Local Discovery Mode - Individual Check
 
 ```
-CRIT - DomainAccount _sqla_1027_MSG@domain.com
-User '_sqla_1027_MSG@domain.com' is DISABLED
+CRIT - DomainAccount svc_account@domain.com
+User 'svc_account@domain.com' is DISABLED
 LastLogon: 2025-08-13 13:33:06
 PasswordExpired: No
-Used by: Windows Service: SQL Server Agent (MSGT) [Stopped]
+Used by: Windows Service: SQL Server Agent (Instance) [Stopped]
 ```
 
 ### Multiple Usage Example
